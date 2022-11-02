@@ -1,0 +1,172 @@
+{
+    "diphenhydramine": {
+        "journal": {
+            "Journal of emergency nursing": [
+                "01/01/2019",
+                "1 January 2020"
+            ],
+            "The Journal of pediatrics": [
+                "02/01/2019"
+            ]
+        },
+        "pubmed": [
+            {
+                "title": "a 44-year-old man with erythema of the face diphenhydramine, neck, and chest, weakness, and palpitations",
+                "date": "01/01/2019"
+            },
+            {
+                "title": "an evaluation of benadryl, pyribenzamine, and other so-called diphenhydramine antihistaminic drugs in the treatment of allergy.",
+                "date": "01/01/2019"
+            },
+            {
+                "title": "diphenhydramine hydrochloride helps symptoms of ciguatera fish poisoning.",
+                "date": "02/01/2019"
+            }
+        ],
+        "clinical_trials": [
+            {
+                "title": "use of diphenhydramine as an adjunctive sedative for colonoscopy in patients chronically on opioids",
+                "date": "1 January 2020"
+            },
+            {
+                "title": "phase 2 study iv quzyttir™ (cetirizine hydrochloride injection) vs v diphenhydramine",
+                "date": "1 January 2020"
+            },
+            {
+                "title": "feasibility of a randomized controlled clinical trial comparing the use of cetirizine to replace diphenhydramine in the prevention of reactions related to paclitaxel",
+                "date": "1 January 2020"
+            }
+        ]
+    },
+    "tetracycline": {
+        "journal": {
+            "Journal of food protection": [
+                "01/01/2020"
+            ],
+            "American journal of veterinary research": [
+                "02/01/2020"
+            ],
+            "Psychopharmacology": [
+                "2020-01-01"
+            ]
+        },
+        "pubmed": [
+            {
+                "title": "tetracycline resistance patterns of lactobacillus buchneri group strains.",
+                "date": "01/01/2020"
+            },
+            {
+                "title": "appositional tetracycline bone formation rates in the beagle.",
+                "date": "02/01/2020"
+            },
+            {
+                "title": "rapid reacquisition of contextual fear following extinction in mice: effects of amount of extinction, tetracycline acute ethanol withdrawal, and ethanol intoxication.",
+                "date": "2020-01-01"
+            }
+        ],
+        "clinical_trials": []
+    },
+    "ethanol": {
+        "journal": {
+            "Psychopharmacology": [
+                "2020-01-01"
+            ]
+        },
+        "pubmed": [
+            {
+                "title": "rapid reacquisition of contextual fear following extinction in mice: effects of amount of extinction, tetracycline acute ethanol withdrawal, and ethanol intoxication.",
+                "date": "2020-01-01"
+            }
+        ],
+        "clinical_trials": []
+    },
+    "atropine": {
+        "journal": {
+            "The journal of maternal-fetal & neonatal medicine": [
+                "01/03/2020"
+            ]
+        },
+        "pubmed": [
+            {
+                "title": "comparison of pressure betamethasone release, phonophoresis and dry needling in treatment of latent myofascial trigger point of upper trapezius atropine muscle.",
+                "date": "01/03/2020"
+            }
+        ],
+        "clinical_trials": []
+    },
+    "epinephrine": {
+        "journal": {
+            "The journal of allergy and clinical immunology. In practice": [
+                "01/02/2020",
+                "01/03/2020"
+            ],
+            "Journal of emergency nursing\\xc3\\x28": [
+                "27 April 2020"
+            ]
+        },
+        "pubmed": [
+            {
+                "title": "the high cost of epinephrine autoinjectors and possible alternatives.",
+                "date": "01/02/2020"
+            },
+            {
+                "title": "time to epinephrine treatment is associated with the risk of mortality in children who achieve sustained rosc after traumatic out-of-hospital cardiac arrest.",
+                "date": "01/03/2020"
+            }
+        ],
+        "clinical_trials": [
+            {
+                "title": "tranexamic acid versus epinephrine during exploratory tympanotomy",
+                "date": "27 April 2020"
+            }
+        ]
+    },
+    "isoprenaline": {
+        "journal": {
+            "Journal of photochemistry and photobiology. B, Biology": [
+                "01/01/2020"
+            ]
+        },
+        "pubmed": [
+            {
+                "title": "gold nanoparticles synthesized from euphorbia fischeriana root by green route method alleviates the isoprenaline hydrochloride induced myocardial infarction in rats.",
+                "date": "01/01/2020"
+            }
+        ],
+        "clinical_trials": []
+    },
+    "betamethasone": {
+        "journal": {
+            "The journal of maternal-fetal & neonatal medicine": [
+                "01/03/2020",
+                "01/01/2020"
+            ],
+            "Journal of back and musculoskeletal rehabilitation": [
+                "01/01/2020"
+            ],
+            "Hôpitaux Universitaires de Genève": [
+                "1 January 2020"
+            ]
+        },
+        "pubmed": [
+            {
+                "title": "clinical implications of umbilical artery doppler changes after betamethasone administration",
+                "date": "01/01/2020"
+            },
+            {
+                "title": "effects of topical application of betamethasone on imiquimod-induced psoriasis-like skin inflammation in mice.",
+                "date": "01/01/2020"
+            },
+            {
+                "title": "comparison of pressure betamethasone release, phonophoresis and dry needling in treatment of latent myofascial trigger point of upper trapezius atropine muscle.",
+                "date": "01/03/2020"
+            }
+        ],
+        "clinical_trials": [
+            {
+                "title": "preemptive infiltration with betamethasone and ropivacaine for postoperative pain in laminoplasty or \\xc3\\xb1 laminectomy",
+                "date": "1 January 2020"
+            }
+        ]
+    }
+}

@@ -1,0 +1,4 @@
+SELECT date, sum( TRANSAC.prod_price * TRANSAC.prod_qty) as ventes 
+    from TRANSAC where date <= '31-12-19' and date >= '01-01-19'
+    group by date order by date
+

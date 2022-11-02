@@ -1,0 +1,7 @@
+SELECT TRANS.prod_id,
+    sum(CASE WHEN PRD.product_type="MEUBLE" then (TRANS.prod_price * TRANS.prod_qty)  END) as ventes_meuble,
+    sum(CASE WHEN PRD.product_type="DECO" then (TRANS.prod_price * TRANS.prod_qty)  END)as ventes_deco
+    FROM TRANSANSACTIONS TRANS
+    JOIN PRODUCT_NOMENCLATURE PRD ON TRANS.prod_id= PRD.product_id
+    where TRANS.date <= '31-12-19' and TRANS.date >= '01-01-19'
+    group by prod_id
